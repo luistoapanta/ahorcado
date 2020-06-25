@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ahorcado</string>
+    <string name="logo">logo</string>
+    <string name="el_ahorcado">EL AHORCADO</string>
+    <string name="btn_score">score</string>
+    <string name="play">play</string>
+    <string name="btn_play">btn_play</string>
+    <string name="lenguaje">Lenguaje</string>
+    <string name="historia">historia</string>
+    <string name="c_naturales">c. naturales</string>
+    <string name="matem_tica">matemática</string>
+    <string name="escoge_un_tema_para_jugar">Escoge un tema para jugar:</string>
+    <string name="canvas">canvas</string>
+
+
+</resources>
